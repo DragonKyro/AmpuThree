@@ -1,5 +1,4 @@
 # AmpuThree
-<h2>AmpuThree</h2>
 
 <p>A cheap prosthetic targeted towards wounded veterans, AmpuThree (it has three motors!) is effective and light. </p>
 
