@@ -2,6 +2,7 @@
 
 <p>A cheap prosthetic targeted towards wounded veterans, AmpuThree (it has three motors!) is effective and light. </p>
 <div style="text-align: center;"><IMG SRC="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/563/055/datas/gallery.jpg" ALT="image"></div>
+<div style="text-align: center;"><IMG SRC="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/563/053/datas/gallery.jpg" ALT="image"></div>
 <h3>Features</h3>
 
 <p>AmpuThree allows wounded veterans to take control of their life with its response technology. The Myo armband tracks the movement of the right arm and uses this data to control the behavior of the mechanical left arm. Amputee veterans are a big problem in the US. According to the National Center for Veteran Statistics, over 1000 veterans are now amputees due to Iraq and Afghanistan alone. These brave men have risked their lives for their journey and many are without prostheses: in fact, many just abandon the devices, which cost over $100000! Several practical examples of everyday tasks have been implemented using the AmpuThree. </p>
